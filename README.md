@@ -69,7 +69,7 @@ You can view the live dashboard here:
 
 The `/Dashboard` directory contains:
 
-- **initial_dashboard.twbx** — first version (final version will be added later)  
+- **Book1.twb** — first version (final version will be added later)  
 
 Includes:
 - KPIs  
