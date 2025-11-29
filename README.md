@@ -7,7 +7,7 @@ This repository contains all project files for my Cyclistic Business Intelligenc
 ## 📁 Repository Structure
 ```
 /
-├── Project Docs/
+├── Project Documentss/
 │ ├── Executive_Summary_Presentation.pptx
 │ └── (Additional documentation)
 │
@@ -64,8 +64,12 @@ Filters trips between **July–September 2015** for seasonal behavior analysis.
 
 ## 📈 Tableau Dashboard
 
-Stored in `/Dashboard`:
-- **initial_dashboard.twbx** (final version coming soon)
+You can view the live dashboard here:  
+[**Cyclistic Bike Share Insights Dashboard**](https://public.tableau.com/app/profile/sameer.ahmed2539/viz/CyclisticBikeShareInsightsDashboard/CyclisticBikeShareInsightsDashboard)
+
+The `/Dashboard` directory contains:
+
+- **initial_dashboard.twbx** — first version (final version will be added later)  
 
 Includes:
 - KPIs  
@@ -80,7 +84,7 @@ Includes:
 
 Find it in:
 
-Project Docs/Executive_Summary_Presentation.pptx
+Project Documentss/Cyclistic Bike Share Project Executive Summary.pptx
 
 
 Contains key findings and recommendations.
